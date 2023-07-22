@@ -35,4 +35,3 @@
 
 ## Цытаты
 
-[def]: Angry_cat.jpg
